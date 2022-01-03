@@ -18,6 +18,8 @@ git clone https://github.com/concaption/PepsiCo-Lab-Potato-Quality-Control
 .git
 cd PepsiCo-Lab-Potato-Quality-Control
 ```
+## Architecture
+<img href='http://simple-stocks-app.herokuapp.com/' src="img/architecture.png">
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
