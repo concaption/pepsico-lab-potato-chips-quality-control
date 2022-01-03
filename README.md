@@ -2,7 +2,7 @@
 <h1>PepsiCo-Lab-Potato-Quality-Control</h1>
 <h4>A deep learning based approach to inspecting the quality of the potato using impages gained through a Jetson Nano enabled classifier.</h4>
 
-<img href='http://simple-stocks-app.herokuapp.com/' src="banner.png">
+<img href='http://simple-stocks-app.herokuapp.com/' src="img/banner.png">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
